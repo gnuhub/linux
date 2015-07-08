@@ -1,7 +1,7 @@
 # Packages we need under Fedora
 # yum provides
 # yum list
-yum install \
+yum install -y \
 	binutils-devel \
 	bison \
 	crash \
